@@ -4,7 +4,7 @@ Submitted by: **Jinny Eo**
 
 **Sea Monster Fundingg** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **7** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/21u07Bt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,6 +36,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I initially struggled with learning how everything in the app really worked, but over time I became familiar and was able to easily understand what aspect and what part I had to look for 
+in various tasks to edit what I wanted to change.
 
 ## License
 
