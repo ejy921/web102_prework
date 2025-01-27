@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/21u07Bt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/21u07Bt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
@@ -35,14 +35,13 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 I initially struggled with learning how everything in the app really worked, but over time I became familiar and was able to easily understand what aspect and what part I had to look for 
-in various tasks to edit what I wanted to change.
+in various tasks to edit what I wanted to change. Also, there were a lot of JavaScript syntax that I had forgotten, but going through the resources really helped solidify my knowledge of JavaScript and web development in general.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [dividing-by-zaro]
+    CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
