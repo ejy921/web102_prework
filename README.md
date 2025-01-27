@@ -26,7 +26,6 @@ Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](https://i.imgur.com/B8xriy8.gif)
 
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 <!-- Recommended tools:
